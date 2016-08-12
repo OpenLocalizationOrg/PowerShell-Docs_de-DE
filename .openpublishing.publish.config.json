@@ -6,7 +6,7 @@
     {
       "docset_name": "PowerShell_PowerShell-docs_dsc",
       "build_output_subfolder": "dsc",
-      "locale": "de-DE",
+      "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
